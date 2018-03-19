@@ -1,0 +1,1 @@
+# FortuneTeller2.0
